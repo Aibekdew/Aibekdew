@@ -60,7 +60,7 @@
 - 📂 GitHub: [Aibekdew](https://github.com/Aibekdew)
 - 📧 Email: mannapovajbek86@почта.com
 - 💼 LinkedIn: [Ваш профиль LinkedIn](https://linkedin.com/in/ваш-логин)
-- 💬 Telegram: (https://t.me/mannapovaibek)
+- 💬 Telegram: https://t.me/mannapovaibek
 
 ---
 
