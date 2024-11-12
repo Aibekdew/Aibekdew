@@ -58,9 +58,9 @@
 ### 💬 Связаться со мной:
 
 - 📂 GitHub: [Aibekdew](https://github.com/Aibekdew)
-- 📧 Email: ваш_email@почта.com
+- 📧 Email: mannapovajbek86@почта.com
 - 💼 LinkedIn: [Ваш профиль LinkedIn](https://linkedin.com/in/ваш-логин)
-- 💬 Telegram: [Ваш Telegram](https://t.me/ваш_логин)
+- 💬 Telegram: [Ваш Telegram](https://t.me/mannapovaibek)
 
 ---
 
