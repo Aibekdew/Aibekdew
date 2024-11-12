@@ -32,7 +32,7 @@
 ---
 
 ### 📈 Статистика GitHub:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ВашЛогин&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aibekdew&show_icons=true&theme=radical)
 
 ### 💬 Свяжитесь со мной:
 
